@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there 👋 I'm Ja'Quis Franklin
+## Hi there 👋 I'm Ja'Quis Franklin
 
 ## 🚀 About Me
 - 🔭 I’m currently a Computer Science student graduating in May 2027.
